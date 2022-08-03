@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392756422322",
+    "project_id": "crud-app-fa322",
+    "storage_bucket": "crud-app-fa322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392756422322:android:f3b58aa539a528ac7d4bab",
+        "android_client_info": {
+          "package_name": "com.example.crud_dosen_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392756422322-7du1rpu0gddr4a3dmo20c9aca9e610tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhrbFhD6m9QZz3a9H5y8gpLLWi0S1cVxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392756422322-7du1rpu0gddr4a3dmo20c9aca9e610tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
